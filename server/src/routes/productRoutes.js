@@ -27,3 +27,6 @@ router.post("/:id/refresh", refreshProductPrices);
 router.delete("/:id", deleteProduct);
 
 module.exports = router;
+
+
+//Hello to check all the routes
